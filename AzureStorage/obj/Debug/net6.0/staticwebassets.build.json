@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ytIOLaIeP/KK/Dh2Da52c9cu0uh0cv0T3NbKSZHINN4=",
+  "Source": "AzureStorage",
+  "BasePath": "_content/AzureStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
